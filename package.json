@@ -1,0 +1,23 @@
+{
+  "name": "newkmink",
+  "version": "1.0.0",
+  "description": "cool lightweight website",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Kris Minkjan",
+  "license": "ISC",
+  "dependencies": {
+    "cash-dom": "^1.2.0",
+    "skeleton-css": "^2.0.4"
+  },
+  "devDependencies": {
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-filesize": "0.0.6",
+    "gulp-uglify": "^1.5.3",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.5"
+  }
+}
